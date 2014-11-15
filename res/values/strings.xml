@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tripers</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="app_id">2015697501902353</string>
+	<string name="get_started">Pour continuer, veuillez vous connecter sur Facebook</string>
+</resources>
